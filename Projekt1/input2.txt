@@ -1,0 +1,30 @@
+_L	good :-)
+_P	very goo2231d.
+_N	<b>not</b> goodvc
+_O	bad!!!v very, very bad ery, very bad
+_N	
+_S	good :-)
+_S	very goo2231d.
+_O	<b>not</b> goodsadasd oko oko ok ok saw verasdasdy verasdasdy <b>not</b> goodsadasd<b>not</b> goodsadasd
+_N	bad!!!
+_N	very, verasdasdy bad d d d fff  df very, verasdasdy badvery, verasdasdy bad very, verasdasdy badvery, verasdasdy bad very, verasdasdy bad very, verasdasdy badvery, verasdasdy bad
+_L	good :-)
+_P	verys goo2231d.
+_N	<b>not</b> good <b>not</b> good <b>not</b> good
+_L	bad!!!
+_N	very, verys bad
+_L	good :-)
+_P	very goo2231d.
+_N	<b>not</b> goodvc
+_O	bad!!!v very, very bad ery, very bad
+_N	
+_S	good :-)
+_S	very goo2231d.
+_O	<b>not</b> goodsadasd verasdasdy verasdasdy <b>not</b> goodsadasd<b>not</b> goodsadasd
+_N	bad!!!
+_N	very, verasdasdy bad very, verasdasdy badvery, verasdasdy bad very, verasdasdy badvery, verasdasdy bad very, verasdasdy bad very, verasdasdy badvery, verasdasdy bad
+_L	good :-)
+_P	verys goo2231d.
+_N	<b>not</b> good <b>not</b> good <b>not</b> good
+_L	bad!!!
+_N	very, verys bad

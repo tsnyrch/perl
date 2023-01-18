@@ -1,0 +1,5 @@
+_P	good  good ahok ahok ahok:-)
+_P	very good.
+_N	<b . > not</b> good
+_N	bad!!!
+_N	very, very bad
