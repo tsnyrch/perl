@@ -13,7 +13,10 @@ use constant {
 };
 
 sub HelpMessage {
-    print("TODO....\n");
+    print("
+        Help TODO
+        usage perl projekt1.pl [ --file | -f ] file [ -l ] minWorldLen [ -f ] minWordFreq [ -t ] (TP, TF, TF-IDF) [ -n ] 1 = True, 0 = False
+    ");
     exit(0);
 }
 

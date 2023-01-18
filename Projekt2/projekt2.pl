@@ -22,7 +22,7 @@ use constant {
 sub HelpMessage {
     print("
         Help TODO
-        usage perl projekt1.pl [ --file | -f ] filename+params
+        usage perl projekt2.pl [ --file | -f ] filename+params
     ");
     exit(0);
 }
